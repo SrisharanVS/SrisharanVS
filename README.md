@@ -1,4 +1,4 @@
-Hi there! I'm a software developer passionate about **theoretical computer science**, **machine learning**, and **game development**. I actively contribute to **open-source projects** (especially KDE) and love building niche, challenging software.
+Hi there! I'm a Theoretical Computer Science Student passionate about **software development**, **full stack development**, **machine learning**, and **game development**. I actively contribute to **open-source projects** (especially KDE) and love building niche, challenging software.
 
 ## 🚀 Current Focus
 - 🔬 **Game AI & Mankala Engine**: Adding Bao la Kiswahili support with AI opponent strategies.
