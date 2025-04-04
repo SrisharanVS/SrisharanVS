@@ -6,6 +6,13 @@ Hi there! I'm a Theoretical Computer Science Student passionate about **software
 - 🌍 **Decentralized Uptime Monitor (Web3 SaaS)**: A blockchain-based service where validators from around the world monitor website uptime.
 - 🎯 **GSoC Preparation**: Enhancing my contributions to KDE and open-source in preparation for Google Summer of Code.
 
+
+## 📌 Latest Projects
+- 🎵 **CloudMuze** - [Repo](https://github.com/SrisharanVS/CloudMuze)
+- 🌍 **MarinMotor** - [Live](https://marinmotor.be)
+- 🔬 **MankalaEngine - Bao la Kiswahili** - [Repo](https://invent.kde.org/srisharanvs/mankalaengine)
+- 🌍 **TravelwithAI** - [Repo](https://github.com/SrisharanVS/TravelwithAI) | [Live](https://travelwithai.vercel.app/)
+
 ## 🔨 Tech Stack
 - **Programming**: Python, C++, Java, JavaScript
 - **Backend**: FastAPI, Flask, Django, Node.js
@@ -13,12 +20,6 @@ Hi there! I'm a Theoretical Computer Science Student passionate about **software
 - **Databases**: PostgreSQL, MongoDB, SQL
 - **AI & ML**: TensorFlow, PyTorch, Bayesian CNNs
 - **Blockchain**: Solidity, Ethereum, Web3.js
-
-## 📌 Latest Projects
-- 🎵 **CloudMuze** - [Repo](https://github.com/SrisharanVS/CloudMuze)
-- 🌍 **MarinMotor** - [Live](https://marinmotor.be)
-- 🔬 **MankalaEngine - Bao la Kiswahili** - [Repo](https://invent.kde.org/srisharanvs/mankalaengine)
-- 🌍 **TravelwithAI** - [Repo](#) | [Live](https://travelwithai.vercel.app/)
 
 ## 💼 Freelancing & Side Projects
 - 🏗️ **Freelance Developer**: Built multiple projects for small-scale businesses, including **landing pages, authentication systems, and AI-powered applications**.
