@@ -10,7 +10,7 @@ Hi there! I'm a Theoretical Computer Science Student passionate about **software
 ## 📌 Latest Projects
 - 🎵 **CloudMuze** - [Repo](https://github.com/SrisharanVS/CloudMuze)
 - 🌍 **TravelwithAI** - [Repo](https://github.com/SrisharanVS/TravelwithAI) | [Live](https://travelwithai.vercel.app/)
-- 🔬 **MankalaEngine - Bao la Kiswahili** - [Repo](https://invent.kde.org/srisharanvs/mankalaengine)
+- 🔬 **MankalaEngine** - [Repo](https://invent.kde.org/srisharanvs/mankalaengine)
 - 🌍 **MarinMotor** - [Live](https://marinmotor.be)
 
 ## 🔨 Tech Stack
@@ -21,12 +21,10 @@ Hi there! I'm a Theoretical Computer Science Student passionate about **software
 - **AI & ML**: TensorFlow, PyTorch, Bayesian CNNs
 - **Blockchain**: Solidity, Ethereum, Web3.js
 
-## 💼 Freelancing & Side Projects
-- 🏗️ **Freelance Developer**: Built multiple projects for small-scale businesses, including **landing pages, authentication systems, and AI-powered applications**.
+## 💼 Side-Hustles
+- 🏗️ **Freelance Developer**: Built multiple projects for small-scale businesses around the world, including **landing pages, authentication systems, and AI-powered applications**.
 - 🔧 **Automation & Productivity**: Built Telegram bots and automated tools for personal and professional efficiency.
-
-## 🌱 Open Source & Hackathons
-- 🎯 **KDE Contributor**: Working on **MankalaEngine** & **DigiKam**
+- 🎯 **Open Source Contributor**: Active contributor at the **K-Development Community(KDE)** projects like **MankalaEngine** and **DigiKam** 
 - 🚀 **Hackathon Enthusiast**: Participated in multiple hackathons (backend & AI roles)
 
 ## 📫 Let's Connect
