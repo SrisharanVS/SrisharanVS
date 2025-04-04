@@ -7,9 +7,9 @@ Hi there! I'm a Theoretical Computer Science Student passionate about **software
 - 🎯 **GSoC Preparation**: Enhancing my contributions to KDE and open-source in preparation for Google Summer of Code.
 
 
-## 📌 Latest Projects
-- 🎵 **CloudMuze** - [Repo](https://github.com/SrisharanVS/CloudMuze)
+## 📌 My Projects
 - 🌍 **TravelwithAI** - [Repo](https://github.com/SrisharanVS/TravelwithAI) | [Live](https://travelwithai.vercel.app/)
+- 🎵 **CloudMuze** - [Repo](https://github.com/SrisharanVS/CloudMuze)
 - 🔬 **MankalaEngine** - [Repo](https://invent.kde.org/srisharanvs/mankalaengine)
 - 🌍 **MarinMotor** - [Live](https://marinmotor.be)
 
