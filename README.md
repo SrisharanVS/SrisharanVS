@@ -23,11 +23,12 @@ Hi there! I'm a Theoretical Computer Science Student passionate about **software
 ## 💼 Side-Hustles
 - 🏗️ **Freelance Developer**: Built multiple projects for small-scale businesses around the world, including **landing pages, authentication systems, and AI-powered applications**.
 - 🔧 **Automation & Productivity**: Built Telegram bots and automated tools for personal and professional efficiency.
-- 🎯 **Open Source Contributor**: Active contributor at the **K-Development Community(KDE)** projects like **MankalaEngine** and **DigiKam** 
+- 🎯 **Open Source Contributor**: Active contributor at the **K-Development Community(KDE)** projects like **MankalaEngine** and **DigiKam**. Head to my [KDEIvent](https://invent.kde.org/srisharanvs)(GitLab Instance) handle to see my open-source journey
 - 🚀 **Hackathon Enthusiast**: Participated in multiple hackathons (backend & AI roles)
 
 ## 📫 Let's Connect
 - 📧 Email: srisharan.psgtech@gmail.com
+- Website: [@SrisharanVS](https://srisharanvs.github.io)
 - 🛠️ GitLab (KDE Invent): [@SrisharanVS](https://invent.kde.org/srisharanvs)
 - 💼 LinkedIn: [linkedin.com/in/srisharan-vs](https://www.linkedin.com/in/srisharan-vs/)
 
