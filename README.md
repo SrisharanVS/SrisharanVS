@@ -19,7 +19,6 @@ Hi there! I'm a Theoretical Computer Science Student passionate about **software
 - **Frontend**: Next.js, React, Bootstrap, Tailwind CSS
 - **Databases**: PostgreSQL, MongoDB, SQL
 - **AI & ML**: TensorFlow, PyTorch, Bayesian CNNs
-- **Blockchain**: Solidity, Ethereum, Web3.js
 
 ## 💼 Side-Hustles
 - 🏗️ **Freelance Developer**: Built multiple projects for small-scale businesses around the world, including **landing pages, authentication systems, and AI-powered applications**.
