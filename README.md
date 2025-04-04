@@ -9,9 +9,9 @@ Hi there! I'm a Theoretical Computer Science Student passionate about **software
 
 ## 📌 Latest Projects
 - 🎵 **CloudMuze** - [Repo](https://github.com/SrisharanVS/CloudMuze)
-- 🌍 **MarinMotor** - [Live](https://marinmotor.be)
-- 🔬 **MankalaEngine - Bao la Kiswahili** - [Repo](https://invent.kde.org/srisharanvs/mankalaengine)
 - 🌍 **TravelwithAI** - [Repo](https://github.com/SrisharanVS/TravelwithAI) | [Live](https://travelwithai.vercel.app/)
+- 🔬 **MankalaEngine - Bao la Kiswahili** - [Repo](https://invent.kde.org/srisharanvs/mankalaengine)
+- 🌍 **MarinMotor** - [Live](https://marinmotor.be)
 
 ## 🔨 Tech Stack
 - **Programming**: Python, C++, Java, JavaScript
