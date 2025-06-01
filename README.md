@@ -4,7 +4,7 @@ Hi there! I'm a Theoretical Computer Science Student passionate about **software
 - 🔬 **Game AI & Mankala Engine**: Adding Bao la Kiswahili support with AI opponent strategies.
 - 🎵 **CloudMuze**: A web app that allows users to join a music room and upvote/downvote tracks. Currently focusing on implementing **independent rooms** for users.
 - 🌍 **Decentralized Uptime Monitor (Web3 SaaS)**: A blockchain-based service where validators from around the world monitor website uptime.
-- 🎯 **GSoC Preparation**: Enhancing my contributions to KDE and open-source in preparation for Google Summer of Code.
+- 🎯 **GSoC 2025**: Developing a Mobile App for Mankala with Multiplayer Support using XMPP Protocol.
 
 
 ## 📌 My Projects
