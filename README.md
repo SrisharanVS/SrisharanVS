@@ -1,11 +1,10 @@
 Hi there! I'm a Theoretical Computer Science Student passionate about **software development**, **full stack development**, **machine learning**, and **game development**. I actively contribute to **open-source projects** (especially KDE) and love building niche, challenging software.
 
 ## 🚀 Current Focus
+- 🎯 **GSoC 2025**: Developing a Mobile App for Mankala with Multiplayer Support using XMPP Protocol.
 - 🔬 **Game AI & Mankala Engine**: Adding Bao la Kiswahili support with AI opponent strategies.
 - 🎵 **CloudMuze**: A web app that allows users to join a music room and upvote/downvote tracks. Currently focusing on implementing **independent rooms** for users.
 - 🌍 **Decentralized Uptime Monitor (Web3 SaaS)**: A blockchain-based service where validators from around the world monitor website uptime.
-- 🎯 **GSoC 2025**: Developing a Mobile App for Mankala with Multiplayer Support using XMPP Protocol.
-
 
 ## 📌 My Projects
 - 🌍 **TravelwithAI** - [Repo](https://github.com/SrisharanVS/TravelwithAI) | [Live](https://travelwithai.vercel.app/)
