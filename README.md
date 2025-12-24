@@ -7,7 +7,6 @@ Hi there! I'm a Theoretical Computer Science Student passionate about **software
 - 🌍 **Decentralized Uptime Monitor (Web3 SaaS)**: A blockchain-based service where validators from around the world monitor website uptime.
 
 ## 📌 My Projects
-- 🌍 **TravelwithAI** - [Repo](https://github.com/SrisharanVS/TravelwithAI) | [Live](https://travelwithai.vercel.app/)
 - 🎵 **CloudMuze** - [Repo](https://github.com/SrisharanVS/CloudMuze)
 - 🔬 **MankalaEngine** - [Repo](https://invent.kde.org/srisharanvs/mankalaengine)
 - 🌍 **MarinMotor** - [Live](https://marinmotor.be)
