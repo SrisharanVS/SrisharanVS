@@ -1,33 +1,21 @@
-Hi there! I'm a Theoretical Computer Science Student passionate about **software development**, **full stack development**, **machine learning**, and **game development**. I actively contribute to **open-source projects** (especially KDE) and love building niche, challenging software.
+### Hi, I'm Srisharan 👋
 
-## 🚀 Current Focus
-- 🎯 **GSoC 2025**: Developing a Mobile App for Mankala with Multiplayer Support using XMPP Protocol.
-- 🔬 **Game AI & Mankala Engine**: Adding Bao la Kiswahili support with AI opponent strategies.
-- 🎵 **CloudMuze**: A web app that allows users to join a music room and upvote/downvote tracks. Currently focusing on implementing **independent rooms** for users.
-- 🌍 **Decentralized Uptime Monitor (Web3 SaaS)**: A blockchain-based service where validators from around the world monitor website uptime.
+Theoretical CS undergrad from India. I like Tech, Cricket, do some open source stuff.
 
-## 📌 My Projects
-- 🎵 **CloudMuze** - [Repo](https://github.com/SrisharanVS/CloudMuze)
-- 🔬 **MankalaEngine** - [Repo](https://invent.kde.org/srisharanvs/mankalaengine)
-- 🌍 **MarinMotor** - [Live](https://marinmotor.be)
+Been to Austria for Akademy 2026, Germany is next(hopes).
 
-## 🔨 Tech Stack
-- **Programming**: Python, C++, Java, JavaScript
-- **Backend**: FastAPI, Flask, Django, Node.js
-- **Frontend**: Next.js, React, Bootstrap, Tailwind CSS
-- **Databases**: PostgreSQL, MongoDB, SQL
-- **AI & ML**: TensorFlow, PyTorch, Bayesian CNNs
+#### What I've Been Up To
+- **KDE & Google Summer of Code**:
+  - **GSoC '26**: Mentoring for KDE ([Project](https://summerofcode.withgoogle.com/programs/2026/projects/9obK9tXk)).
+  - **GSoC '25**: Built the mobile client and heuristic AI opponents for Mankala with XMPP multiplayer ([Archive](https://summerofcode.withgoogle.com/archive/2025/projects/TWsh0ytJ)).
+- **Intern @ QZen LLC**: Focused on AI governance frameworks and compliance tooling.
+- **Freelance Dev**: Built full-stack apps and tooling for clients across Belgium, some island near Nexico, and idk(few more).
 
-## 💼 Side-Hustles
-- 🏗️ **Freelance Developer**: Built multiple projects for small-scale businesses around the world, including **landing pages, authentication systems, and AI-powered applications**.
-- 🔧 **Automation & Productivity**: Built Telegram bots and automated tools for personal and professional efficiency.
-- 🎯 **Open Source Contributor**: Active contributor at the **K-Development Community(KDE)** projects like **MankalaEngine** and **DigiKam**. Head to my [KDEInvent](https://invent.kde.org/srisharanvs) (GitLab Instance) handle to see my open-source journey
-- 🚀 **Hackathon Enthusiast**: Participated in multiple hackathons (backend & AI roles)
+#### Stack
+- **Languages:** C++, Python, JavaScript/TypeScript, SQL
+- **Frameworks & Tools:** Qt6/KF6, CMake, React, Next.js, FastAPI, Node.js, Git
 
-## 📫 Let's Connect
-- 📧 Email: srisharan.psgtech@gmail.com
-- Website: [@SrisharanVS](https://srisharanvs.github.io)
-- 🛠️ GitLab (KDE Invent): [@SrisharanVS](https://invent.kde.org/srisharanvs)
-- 💼 LinkedIn: [linkedin.com/in/srisharan-vs](https://www.linkedin.com/in/srisharan-vs/)
+*(honestly, AI writes the syntax anyway ._.)*
+---
 
-Happy coding! 🚀
+[Website](https://srisharanvs.github.io) · [KDE Invent](https://invent.kde.org/srisharanvs) · [GitHub](https://github.com/SrisharanVS) · [LinkedIn](https://www.linkedin.com/in/srisharan-vs/) · [Email](mailto:srisharan.psgtech@gmail.com)
